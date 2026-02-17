@@ -1,6 +1,5 @@
 numpy
 pandas
 seaborn
-streamlit
 tensorflor
 matplotlib
